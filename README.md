@@ -1,12 +1,12 @@
-# 💫 About Me:
+# About Me:
 Hi, I’m Mykyta, a software engineer living in Warsaw. I’m finishing my Computer Science bachelor’s at the Polish-Japanese Academy of Information Technology (last semester, Software Engineering and Databases), and I’m open to work<br><br>I worked as a Backend Developer at S-PRO, and later as a Full Stack Engineer at Tessium, where we built and launched a product from scratch. I did a bit of everything there: backend, frontend, AI integration, deployment, and I also led the team<br><br>I mostly write Java with Spring Boot, but I also use Python, TypeScript, React, NestJS, PostgreSQL and more other technologies. I have worked a lot with AI tools and put them into real products<br><br>In my free time I build my own projects, like Hookline (a webhook delivery service), PayMatch, SheetWise and others. You can find them here<br><br>If you want to work together or just talk, message me on LinkedIn
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mykyta-prokhoda) 
 
 
-# 💻 Tech Stack:
+# Tech Stack:
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,7 +32,7 @@ Hi, I’m Mykyta, a software engineer living in Warsaw. I’m finishing my Compu
 ### Web3
 ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![OpenSea](https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=blevotaNP&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
