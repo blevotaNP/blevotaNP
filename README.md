@@ -37,5 +37,3 @@ Hi, I’m Mykyta, a software engineer from Warsaw. I’m finishing my Computer S
 
 ---
 [![](https://komarev.com/ghpvc/?username=blevotaNP&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
